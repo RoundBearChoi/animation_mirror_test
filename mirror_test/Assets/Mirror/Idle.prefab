@@ -945,7 +945,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -4565884009001823619, guid: 28135f7097e58f44295c5945397fa210, type: 3}
+  - {fileID: 2100000, guid: acedb60cd21763144a36ec1ce7b7f2c9, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1543,7 +1543,7 @@ GameObject:
   - component: {fileID: 1399784077252563688}
   - component: {fileID: 1969927317217040668}
   m_Layer: 0
-  m_Name: Balanced Idle
+  m_Name: Idle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1893,7 +1893,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -840037777384891287, guid: 28135f7097e58f44295c5945397fa210, type: 3}
+  - {fileID: 2100000, guid: 03dd846912e28e44e8db5d5b875ce675, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
