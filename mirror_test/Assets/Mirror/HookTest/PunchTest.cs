@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SwitchTest : MonoBehaviour
+public class PunchTest : MonoBehaviour
 {
     public Animator animator;
     bool ThrowPunch;
